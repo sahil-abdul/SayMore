@@ -20,19 +20,8 @@ A **Next.js + MERN stack** web application that allows users to **send and recei
 - **Frontend**: React, Next.js, TailwindCSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **AI Integration**: OpenAI API (for message suggestions)
+-**AI Integration**: **Gemini AI model** for message suggestions
 - **Real-Time Updates**: Socket.io
 
 ---
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js >= 18  
-- npm or yarn  
-- MongoDB database (local or cloud)  
-- OpenAI API key (for AI suggestions)  
-
-git clone https://github.com/yourusername/anonymous-feedback-app.git
-cd anonymous-feedback-app
